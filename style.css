@@ -61,12 +61,28 @@ footer{
 .footer1{
     padding: 10px;
 }
-/*
-.part2{
-    display: inline-block;
+
+.medias{
+    display: flex;
+    justify-content: center;
 }
 
-.center{
-    display: inline;
-    justify-content: center;
+.pad{
+    padding-right: 5px;
+}
+
+/* Responsive Design */
+
+@media screen and (max-width:1020px){
+    .members{
+        display:block;
+    }
+
+    footer{
+        display: block;
+    }
+    .part1, .part2{
+        border-bottom: 5px dotted navy;
+        padding-bottom: 20px;
+    }
 }
