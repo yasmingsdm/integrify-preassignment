@@ -34,7 +34,7 @@ h1{
 .members{
     justify-content: space-around;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, minmax(0,1fr))
 }
 
 .member{
@@ -75,7 +75,7 @@ footer{
 
 @media screen and (max-width:1020px){
     .members{
-        display:block;
+        grid-template-columns: repeat(1, minmax(0,1fr))
     }
 
     footer{
