@@ -10,5 +10,10 @@ What I've practiced/learned:
 - Adding icons (HTML);
 - Flexbox (CSS);
 - Grid (CSS);
-- Responsive Design (CSS).
-You can check the project ready [here](https://yasmingsdm.github.io/integrify-preassignment/)
+- Responsive Design (CSS)
+- Coding review via Google Meet.
+
+Code reviewer: [Anisul Islam](https://github.com/anisul-Islam)
+
+
+<br>You can check the project ready [here](https://yasmingsdm.github.io/integrify-preassignment/)
